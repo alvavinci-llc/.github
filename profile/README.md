@@ -15,7 +15,3 @@ alvavinci LLC is a technology company in Oita, Japan. We work inside client team
 - Website: [alvavinci.com](https://alvavinci.com/) · [AI Engineering](https://alvavinci.com/en/ai-engineering.html)
 - Contact: [LinkedIn – Hiroka Ason](https://www.linkedin.com/in/hiroka-ason/) · [LinkedIn – alvavinci](https://www.linkedin.com/company/alvavinci/)
 
-### Public repositories
-
-- [corporate-site](https://github.com/alvavinci-llc/corporate-site) — source of alvavinci.com (Japanese / English)
-- [for-machines](https://github.com/alvavinci-llc/for-machines) — entertainment made for AI, not humans
